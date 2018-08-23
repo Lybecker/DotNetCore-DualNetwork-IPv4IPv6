@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{CE5556BC-878E-48AE-8022-A665338E69B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udp.Client", "Udp.Client\Udp.Client.csproj", "{CE5556BC-878E-48AE-8022-A665338E69B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{5A7E1DE0-35BE-4687-8874-C4BA319C3001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udp.Server", "Udp.Server\Udp.Server.csproj", "{5A7E1DE0-35BE-4687-8874-C4BA319C3001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
